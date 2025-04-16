@@ -1,0 +1,22 @@
+Id;Name;URL;;
+1;Technology;https://finance.yahoo.com/sectors/technology/;('1', Technology, 'https://finance.yahoo.com/sectors/technology/');"('1', Technology, 'https://finance.yahoo.com/sectors/technology/'),
+('2', Financial Services, 'https://finance.yahoo.com/sectors/financial-services/'),
+('3', Consumer Cyclical, 'https://finance.yahoo.com/sectors/consumer-cyclical/'),
+('4', Healthcare, 'https://finance.yahoo.com/sectors/healthcare/'),
+('5', Communication Services, 'https://finance.yahoo.com/sectors/communication-services/'),
+('6', Industrials, 'https://finance.yahoo.com/sectors/industrials/'),
+('7', Consumer Defensive, 'https://finance.yahoo.com/sectors/consumer-defensive/'),
+('8', Energy, 'https://finance.yahoo.com/sectors/energy/'),
+('9', Basic Materials, 'https://finance.yahoo.com/sectors/basic-materials/'),
+('10', Real Estate, 'https://finance.yahoo.com/sectors/real-estate/'),
+('11', Utilities, 'https://finance.yahoo.com/sectors/utilities/')"
+2;Financial Services;https://finance.yahoo.com/sectors/financial-services/;('2', Financial Services, 'https://finance.yahoo.com/sectors/financial-services/');
+3;Consumer Cyclical;https://finance.yahoo.com/sectors/consumer-cyclical/;('3', Consumer Cyclical, 'https://finance.yahoo.com/sectors/consumer-cyclical/');
+4;Healthcare;https://finance.yahoo.com/sectors/healthcare/;('4', Healthcare, 'https://finance.yahoo.com/sectors/healthcare/');
+5;Communication Services;https://finance.yahoo.com/sectors/communication-services/;('5', Communication Services, 'https://finance.yahoo.com/sectors/communication-services/');
+6;Industrials;https://finance.yahoo.com/sectors/industrials/;('6', Industrials, 'https://finance.yahoo.com/sectors/industrials/');
+7;Consumer Defensive;https://finance.yahoo.com/sectors/consumer-defensive/;('7', Consumer Defensive, 'https://finance.yahoo.com/sectors/consumer-defensive/');
+8;Energy;https://finance.yahoo.com/sectors/energy/;('8', Energy, 'https://finance.yahoo.com/sectors/energy/');
+9;Basic Materials;https://finance.yahoo.com/sectors/basic-materials/;('9', Basic Materials, 'https://finance.yahoo.com/sectors/basic-materials/');
+10;Real Estate;https://finance.yahoo.com/sectors/real-estate/;('10', Real Estate, 'https://finance.yahoo.com/sectors/real-estate/');
+11;Utilities;https://finance.yahoo.com/sectors/utilities/;('11', Utilities, 'https://finance.yahoo.com/sectors/utilities/');
